@@ -2,7 +2,7 @@ This BookStore app is built with Vanilla_JavaScript using object oriented progra
 User can add books to list and delete them from list. Validation is implemented for the app. Alerts will be shown on adding and deleting of a book. Local storage api is used to store books on local memory.
 
 
-To run the project, Download or clone it on your machine and open index.html on your browser.
+https://shoaibjalal.github.io/BookSaverApp/.
 
 <img src="img/screenshot.PNG" />
 <img src="img/screenshot2.PNG" />
